@@ -147,7 +147,7 @@
       <input id="pwdInput" type="password" placeholder="Password" style="width:100%;padding:10px;border-radius:8px;border:1px solid #ddd;margin-top:8px">
       <div style="height:12px"></div>
       <button class="btn" id="pwdCheck">Buka</button>
-      <p style="color:#999;margin-top:8px">Password default: <strong>sayangsangat</strong> (boleh diubah dalam kod)</p>
+      <p style="color:#999;margin-top:8px">Password default: <strong>sayangsangat</strong> </p>
     </div>
   </div>
 
@@ -193,7 +193,7 @@
     <!-- SLIDESHOW -->
     <section id="slideshow" class="section" style="display:none">
         <h2>📸 Gambar Cantik Shuraya</h2>
-        <img id="slide" src="<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/f215eba8-4895-42dc-ae15-356d02ac7d07" />
+        <img id="slide" src="<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/f215eba8-4895-42dc-ae15-356d02ac7d07" />
 " class="slideshow">
         <p style="opacity:0.6;">*Masukkan gambar di folder sama & tukar nama file*</p>
     </section>
